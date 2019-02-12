@@ -1,0 +1,14 @@
+.container{
+    background: grey;
+    max-width: 960px;
+}
+
+.card-group{
+    margin: auto;
+}
+.btn{
+    color: black;
+}
+/* .card-img-top{
+
+} */
